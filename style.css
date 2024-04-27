@@ -1,0 +1,204 @@
+ 
+
+/*            background-color: #222; /* Dark background color */
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    /* Adjusted background gradient */
+    background: linear-gradient(to bottom, #121212 0%, #2c2c2c 25%, #3d3d3d 50%, #2c2c2c 75%, #121212 100%);
+    color: #ffffff; /* Text color for light text on dark background */
+    min-height: 100vh;
+    padding-bottom: 60px; /* Adjusted padding */
+    box-sizing: border-box;
+    overflow-y: overlay; /* Always show scrollbar */
+    scrollbar-width: thin; /* Width of scrollbar */
+    scrollbar-color: #555 #333; /* Color of scrollbar */
+    height: 100%; /* Ensure body takes full height of viewport */
+    background-color: #121212; /* Background color */
+}
+.top-banner {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #333;
+    padding: 0px 0;
+    text-align: left;
+    background: linear-gradient(to bottom, #121212, #2c2c2c); /* Gradient background */
+    color: white; /* Text color */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    overflow-x: auto;
+}
+.logo {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.toptext-box {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 330px;
+    height: 5px;
+    background-color: ;
+    margin-top: 0px;
+    margin-left: 400px; /* Adjust this value to set the desired offset */
+}
+.toptext {
+    margin-left: 0px;
+    top: 0px;
+    left: 0px;
+    padding: 0px 0; /* Add padding for better visibility */
+    text-align: left; /* Center-align text */
+    font-size: 14px; /* Adjust font size */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow-x: auto; /* Enable horizontal scrolling if text overflows */
+}
+.button {
+    position: relative;
+    top: 0px;
+    left: 20px;
+    display: inline-block;
+    margin: 0 0px;
+    padding: 5px 10px;
+    background: linear-gradient(to bottom, rgba(85, 85, 85, 0.3), rgba(0, 3)); /* Set gradient background with transparency */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 0px;
+}
+.buttontop {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 0px 2px;
+    background: linear-gradient(to top, rgba(85, 85, 85, 0.3), rgba(0, 0, 0, 0.3)); /* Set gradient background with transparency */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 1px;
+}
+.contact-banner {
+    position: fixed; /* Fixed position at the bottom of the viewport */
+    bottom: 0;
+    left: 0;
+    width: 100%; /* Full width */
+    background: linear-gradient(to bottom, #121212 0%, #2c2c2c 25%, #3d3d3d 50%, #2c2c2c 75%, #121212 100%); /* Adjust colors as needed */
+    padding: 0px 0; /* Add padding for better visibility */
+    text-align: center; /* Center-align text */
+    box-sizing: border-box; /* Include padding and border in the width */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5); /* Add a shadow for better separation from content */
+    font-size: 16px; /* Adjust font size */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow-x: auto; /* Enable horizontal scrolling if text overflows */
+}
+.contact-banner span {
+    margin-right: 40px; /* Adjust this value to set the desired space between text */
+    color: white; /* Example of styling applied to spans */
+}
+/* Scrollbar Track */
+body::-webkit-scrollbar-track {
+    background: #333;
+}
+/* Scrollbar Handle */
+body::-webkit-scrollbar-thumb {
+    background-color: #555;
+    border-radius: 10px;
+    border: 3px solid #333;
+}
+/* Scrollbar Handle on hover */
+body::-webkit-scrollbar-thumb:hover {
+    background-color: #777;
+}
+  /* Ensure scrollbar always visible */
+body:hover::-webkit-scrollbar-thumb {
+    background-color: #555; /* Change color on hover */
+}
+h1 {
+    color: #cc1111;
+    margin-left: 20px;
+    font-style: bold;
+    font-size: 40px;
+}
+h2 {
+    color: #cc1111;
+    margin-left: 20px;
+    font-style: bold;
+    font-size: 20px;
+}
+strong {
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+b1 {
+    display: list-item;
+    margin-left: 1em;
+    font-style: ;
+    font-size: 20px;
+    padding: 10px;
+}
+b2 {
+    display: list-item;
+    margin-left: 1em;
+    font-style: ;
+    font-size: 15px;
+    padding: 10px;
+}
+.colored-box {
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.colored-text {
+    color: white;
+    margin-left: 20px;
+}
+.white-t1 {
+    color: #ffffff;
+    font-style: ;
+    font-size: 20px;
+    padding: 20px;
+    width: 600px;
+    height: auto;
+}
+.white-t2 {
+    color: #ffffff;
+    font-style: ;
+    font-size: 20px;
+    padding: 120px;
+    width: 600px;
+    height: auto;
+}
+.signature {
+    position: relative;
+    bottom: 40px;
+    left: 100px;
+    padding: 30px;
+    color: white;
+    font-style: ;
+    font-size: 10px;
+}
+.image {
+    border: 1px solid black;
+    width: auto;
+    height: 700px;
+    margin-left: 70px;
+}
+a:link {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+a:visited {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+a:hover {
+    color: #707070;
+    text-decoration: none;
+    font-size:150%;
+}
+
