@@ -40,17 +40,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-33.440817,-96.870677)">
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.76;fill:#1700ff;stroke-width:0.799999"
-       x="32.666817"
-       y="107.00468"
-       id="text740"><tspan
-         sodipodi:role="line"
-         id="tspan738"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.8"
-         x="32.666817"
-         y="107.00468"
-         dx="0 -0.50438666 9.0682711e-08">FLJ</tspan></text>
+    <g
+       aria-label="FLJ"
+       id="text740"
+       style="font-size:18px;-inkscape-font-specification:sans-serif;opacity:0.76;fill:#1700ff;stroke-width:0.799999">
+      <path
+         d="m 35.636817,102.10868 v 4.158 h 2.484 q 0.504,0 0.504,0.36 0,0.378 -0.504,0.378 h -4.194 q -0.486,0 -0.486,-0.378 0,-0.36 0.486,-0.36 h 0.972 v -8.658003 h -0.972 q -0.486,0 -0.486,-0.378 0,-0.36 0.486,-0.36 h 8.1 v 2.502 q 0,0.486 -0.378,0.486 -0.36,0 -0.36,-0.486 v -1.764 h -5.652 v 3.762003 h 2.61 v -0.81 q 0,-0.486 0.36,-0.486 0.378,0 0.378,0.486 v 2.358 q 0,0.486 -0.378,0.486 -0.36,0 -0.36,-0.486 v -0.81 z"
+         style="font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.8"
+         id="path972" />
+      <path
+         d="m 47.048437,97.608677 v 8.658003 h 4.914 v -2.88 q 0,-0.486 0.378,-0.486 0.36,0 0.36,0.486 v 3.618 h -8.118 q -0.486,0 -0.486,-0.378 0,-0.36 0.486,-0.36 h 1.728 v -8.658003 h -1.728 q -0.486,0 -0.486,-0.378 0,-0.36 0.486,-0.36 h 4.194 q 0.486,0 0.486,0.36 0,0.378 -0.486,0.378 z"
+         style="font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.8"
+         id="path974" />
+      <path
+         d="m 62.042444,97.608677 v 6.426003 q 0,1.332 -1.008,2.304 -0.99,0.954 -2.376,0.954 -0.864,0 -1.638,-0.36 -0.774,-0.378 -1.746,-1.26 v -2.682 q 0,-0.486 0.378,-0.486 0.36,0 0.36,0.486 v 2.34 q 1.35,1.224 2.664,1.224 1.098,0 1.854,-0.738 0.774,-0.738 0.774,-1.782 v -6.426003 h -2.862 q -0.486,0 -0.486,-0.378 0,-0.36 0.486,-0.36 h 5.328 q 0.486,0 0.486,0.36 0,0.378 -0.486,0.378 z"
+         style="font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.8"
+         id="path976" />
+    </g>
   </g>
 </svg>
