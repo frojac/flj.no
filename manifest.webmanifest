@@ -1,8 +1,0 @@
-// manifest.webmanifest
-{
-  "name": "Frode Jacobsen"
-  "icons": [
-    { "src": "logo/favicon192.png", "type": "image/png", "sizes": "192x192" },
-    { "src": "logo/favicon512.png", "type": "image/png", "sizes": "512x512" }
-  ]
-}

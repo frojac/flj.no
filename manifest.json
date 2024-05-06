@@ -1,0 +1,20 @@
+{
+    "name": "Frode Jacobsen",
+    "short_name": "Frode L.J.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#07e",
+    "description": "En kjernekar",
+    "icons": [
+        {
+            "src": "logo/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
