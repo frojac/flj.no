@@ -1,18 +1,18 @@
 {
     "name": "Frode Jacobsen",
     "short_name": "Frode L.J.",
-    "start_url": "/",
+    "start_url": "https://flj.no",
     "display": "standalone",
     "background_color": "#07e",
     "description": "En kjernekar",
     "icons": [
         {
-            "src": "logo/favicon-192.png",
+            "src": "https://flj.no/logo/favicon-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "logo/favicon-512.png",
+            "src": "https://flj.no/logo/favicon-512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
