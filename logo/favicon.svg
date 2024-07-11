@@ -9,9 +9,9 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="favicon.svg"
-   inkscape:export-filename="apple-touch-icon.png"
-   inkscape:export-xdpi="57.149998"
-   inkscape:export-ydpi="57.149998"
+   inkscape:export-filename="../favicon.ico.png"
+   inkscape:export-xdpi="10.16"
+   inkscape:export-ydpi="10.16"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.2494263"
-     inkscape:cx="77.797615"
-     inkscape:cy="186.04744"
+     inkscape:zoom="3.1461468"
+     inkscape:cx="135.40373"
+     inkscape:cy="174.34024"
      inkscape:window-width="1876"
      inkscape:window-height="1052"
      inkscape:window-x="0"
@@ -44,9 +44,9 @@
      id="layer1"
      transform="translate(-46.316349,-86.801247)">
     <path
-       style="opacity:0.76;fill:#1700ff;fill-opacity:1;stroke:none;stroke-width:0.799999"
-       d="m 90.748063,91.356976 -7.254639,57.155534 c -3.180323,7.27889 -5.471141,11.23938 -12.371684,12.22529 -8.979656,-1.10491 -8.699668,-10.79577 -11.131175,-17.97821 -0.05482,-0.0631 -2.382784,-0.28454 -4.555228,-0.43667 -0.399692,1.7174 -0.506,3.81769 -0.118506,6.18959 1.425259,9.26736 6.987353,14.75246 15.555355,16.25213 9.951073,-1.30023 14.40902,-7.13543 17.369773,-13.49145 l 4.063851,-28.46313 c 5.445905,-0.18822 11.99197,-0.0111 17.43787,-0.19935 l 0.60795,-6.56082 c -4.81654,0.1498 -9.63309,0.29959 -14.449632,0.44939 l 2.171507,-18.295665 23.748965,-0.421074 0.87546,-8.672222 -31.556019,1.350307"
+       style="opacity:0.76;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.799999"
+       d="m 91.587121,90.36402 -6.567213,58.35667 c 0,0 -2.610715,11.71529 -13.898168,12.01711 -10.769655,-0.18898 -9.802966,-15.65469 -9.802966,-15.65469 l -7.240914,0.401 c 0,0 7.775131,19.18171 16.794326,19.28053 9.720643,-0.22158 19.145489,-8.94567 20.596899,-13.85648 l 3.847403,-27.82467 14.427192,-0.47278 0.60795,-6.56082 -14.447656,0.45929 1.668433,-18.039485 24.250063,-0.687154 0.87546,-8.672222"
        id="path740"
-       sodipodi:nodetypes="cccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccc" />
   </g>
 </svg>
